@@ -23,3 +23,6 @@ I'm thinking of later on adding a some sort of AI to ask questions depending on 
 ![image](https://github.com/user-attachments/assets/342b4182-0a9c-45c3-9cac-73d115313e07)
 
 I'll leave it be for now as it is.
+
+# Fun fact: 
+After a minute of thinking that I might be one exceptional person with this sort of idea, I've come to the realisation that other people already have these kinds of websites. Oh well, I might aswell make my own one.
