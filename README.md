@@ -26,3 +26,8 @@ I'll leave it be for now as it is.
 
 # Fun fact: 
 After a minute of thinking that I might be one exceptional person with this sort of idea, I've come to the realisation that other people already have these kinds of websites. Oh well, I might aswell make my own one.
+
+# I got a co-worker :D (08/12/2024) (23:28🕥)
+![image](https://github.com/user-attachments/assets/99f6de50-8eb3-4ae2-98ad-51f01564d44d)
+
+Me & Alina ( A co-worker I know from a job I work at, agreed to help me with the design & ideas for the website itself! :P Seems like i'm not gonna be the only one working on it.
